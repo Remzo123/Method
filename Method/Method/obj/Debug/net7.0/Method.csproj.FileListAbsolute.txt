@@ -1,0 +1,14 @@
+C:\Method\Method\bin\Debug\net7.0\Method.exe
+C:\Method\Method\bin\Debug\net7.0\Method.deps.json
+C:\Method\Method\bin\Debug\net7.0\Method.runtimeconfig.json
+C:\Method\Method\bin\Debug\net7.0\Method.dll
+C:\Method\Method\bin\Debug\net7.0\Method.pdb
+C:\Method\Method\obj\Debug\net7.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Method\Method\obj\Debug\net7.0\Method.AssemblyInfoInputs.cache
+C:\Method\Method\obj\Debug\net7.0\Method.AssemblyInfo.cs
+C:\Method\Method\obj\Debug\net7.0\Method.csproj.CoreCompileInputs.cache
+C:\Method\Method\obj\Debug\net7.0\Method.dll
+C:\Method\Method\obj\Debug\net7.0\refint\Method.dll
+C:\Method\Method\obj\Debug\net7.0\Method.pdb
+C:\Method\Method\obj\Debug\net7.0\Method.genruntimeconfig.cache
+C:\Method\Method\obj\Debug\net7.0\ref\Method.dll
